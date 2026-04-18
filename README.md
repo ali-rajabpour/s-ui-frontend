@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/33e4371f-1a5c-4d4b-9630-1a19ddbf23c2" 
+       alt="FileFlow"
+       width="60%" />
+</p>
+
+
 # S-UI-Frontend
 ** A frontend for S-UI **
 
